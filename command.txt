@@ -1,0 +1,3 @@
+npm init
+npm install express pg-promise babel-cli babel-preset-es2015 nodemon body-parser later dotenv --save
+npm run start
